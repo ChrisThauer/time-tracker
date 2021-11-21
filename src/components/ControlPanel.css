@@ -1,0 +1,21 @@
+.control-panel {
+    background: #1C204B;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.toggle {
+    font-size: 18px;
+    color: #7078C9;
+    padding-left: 32px;
+    cursor: pointer;
+    margin-top: 21px;
+}
+
+.toggle:last-of-type {
+    margin-bottom: 32px;
+}
+
+.toggle:hover {
+    color: #fff;
+}
