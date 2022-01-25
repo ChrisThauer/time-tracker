@@ -1,0 +1,7 @@
+.time-panels {
+    width: 840px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 30px;
+}
